@@ -4,8 +4,7 @@ Hi! This project utilizes the GLSL shader language along with rendering techniqu
 
 ## Example output:
 Night sky (view from below) and morning sky (view from above).
-| ![Example 1: Night Sky](https://romantaylor.com/wp-content/uploads/2021/07/night_sky.gif) | ![Example 2: Flying through clouds](https://romantaylor.com/wp-content/uploads/2021/07/flyingthroughclouds.gif) |
-|--|--|
+![Example Scene](https://romantaylor.com/wp-content/uploads/2021/09/cloud_renderer_example_scene.jpg)
 
 ## More information:
 A more detailed explanation of this project can be found [here](https://romantaylor.com/volumetric-clouds-simulation/). 
