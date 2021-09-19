@@ -4,7 +4,7 @@ Hi! This project utilizes the GLSL shader language along with rendering techniqu
 
 ## Example output:
 Night sky (view from below) and morning sky (view from above).
-| ![enter image description here](https://romantaylor.com/wp-content/uploads/2021/08/night_sky-1.gif) | ![enter image description here](https://romantaylor.com/wp-content/uploads/2021/08/flyingthroughclouds.gif) |
+| ![Example 1: Night Sky](https://romantaylor.com/wp-content/uploads/2021/07/night_sky.gif) | ![Example 2: Flying through clouds](https://romantaylor.com/wp-content/uploads/2021/07/flyingthroughclouds.gif) |
 |--|--|
 
 ## More information:
