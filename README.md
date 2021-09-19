@@ -3,7 +3,7 @@
 Hi! This project utilizes the GLSL shader language along with rendering techniques like raytracing, bounding volume hierarchies, and other real-time techniques in order to create rendering of volumetric clouds and gases.
 
 ## Example output:
-Night sky (view from below) and morning sky (view from above).
+Night sky (view from below) and morning sky (view from above).<br/>
 ![Example Scene](https://romantaylor.com/wp-content/uploads/2021/09/cloud_renderer_example_scene.jpg)
 
 ## More information:
